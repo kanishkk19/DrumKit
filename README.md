@@ -11,15 +11,14 @@ DEPLOYEMENT:
 <br>
 <br>
 Deployed websie: https://kanishkk19.github.io/DrumKit/ 
-***
+<hr>
 
-![screenshot](https://user-images.githubusercontent.com/90362538/187633602-dd26f3b8-1326-4008-87a9-5601030fc4b0.png)
+![image](https://user-images.githubusercontent.com/90362538/187634271-06bf6f9e-5f1d-4681-8744-c126798ff9dc.png)
+
 
 
 <hr>
 
-
-<hr>
 
 BUILT WITH: 
 <br>
