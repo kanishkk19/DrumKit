@@ -10,7 +10,7 @@ An interactive Drum KIt Project which uses javaScript Event Listener and allows 
 DEPLOYEMENT:
 <br>
 <br>
-Deployed websie: https://kanishkk19.github.io/DrumKit/ 
+Deployed websie: https://kanishkk19.github.io/TicTacToe/
 <hr>
 
 ![image](https://user-images.githubusercontent.com/90362538/187634271-06bf6f9e-5f1d-4681-8744-c126798ff9dc.png)
